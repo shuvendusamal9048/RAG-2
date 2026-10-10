@@ -1,0 +1,8 @@
+{
+  "document_id": "test-document-123",
+  "filename": "sample.pdf",
+  "file_size": 1024,
+  "sha256": "abc123",
+  "status": "processed",
+  "created_at": "2026-09-29T10:48:47.898908Z"
+}

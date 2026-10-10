@@ -1,0 +1,10 @@
+[
+  {
+    "chunk_id": "test-document-p1-c0",
+    "document_id": "test-document",
+    "page_number": 1,
+    "chunk_index": 0,
+    "sha256": "21f68b77ec93e722f55419ea17a3b2e41be91a1e17846e4deb87d35acf9555a4",
+    "text": "Employee leave policy. Employees receive fifteen annual leave days."
+  }
+]
